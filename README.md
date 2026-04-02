@@ -1,4 +1,4 @@
-Simulador de Cinema online
+💻 Simulador de Cinema online
 Este é um projeto desenvolvido afim de simular um cinema online, com compra de ingressos, modo cinema e avaliação de filmes
 
 🛠️ Tecnologias Utilizadas
@@ -6,7 +6,8 @@ HTML5 (Semântica e Acessibilidade)
 CSS3 (Estilização e Feedback Visual)
 JavaScript (Manipulação de DOM e Eventos)
 📁 Estrutura do Projeto
-O projeto foi organizado seguindo boas práticas de mercado: / ├── index.html └── src/ ├── styles/ (Estilos da página) ├── scripts/ (Lógica de interação) └── images/ (Ativos visuais)
+O projeto foi organizado seguindo boas práticas de mercado: 
+/ ├── index.html └── src/ ├── styles/ (Estilos da página) ├── scripts/ (Lógica de interação) └── images/ (Ativos visuais)
 
 🚀 Funcionalidades Implementadas
 Interatividade Visual: Elementos que reagem ao passar do mouse (Hover e manipulação de Classes).
